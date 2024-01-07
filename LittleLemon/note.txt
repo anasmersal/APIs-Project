@@ -1,0 +1,38 @@
+superuser
+
+username: admin
+password: admin
+################################
+user in Manager group
+
+username: manager
+password: 51am78sw
+
+Token: a3acf831fab544ace3180294e783e985e932d51f
+################################
+user in Delivery crew group
+
+username: delivery
+password: 51am78sw
+
+Token: f44416516a581df599104af0f51d1eb75efb878b
+################################
+user for test to add or remove from groups
+username: test
+password: 51am78sw
+
+Token: 93cdce4466332f8dad2e0aad0d8d8f995e08301e
+################################
+user like customer
+
+username: customer1
+password: 51am78sw
+
+Token: 6a23eefe600ce3985a196b3c0017e4a4240fe3e1
+################################
+user like customer
+
+username: customer2
+password: 51am78sw
+
+Token: 8034c809b9f5a2b3fef15e66b3432e8028c8565c
