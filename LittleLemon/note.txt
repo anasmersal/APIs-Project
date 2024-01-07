@@ -6,7 +6,7 @@ password: admin
 user in Manager group
 
 username: manager
-password: 51am78sw
+password: 51am78sw 
 
 Token: a3acf831fab544ace3180294e783e985e932d51f
 ################################
